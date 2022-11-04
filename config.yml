@@ -1,0 +1,9 @@
+Noofsamples: 10000
+Noofcenters: 2
+Nooffeatures: 2
+testsize: 0.97
+learningrate: 0.005
+maxiterations: 1000
+epsilon: 0.01
+epsilon2: 0.05
+randomseed: 16 # random seed for random BCGD
